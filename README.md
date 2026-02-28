@@ -1,4 +1,10 @@
-# sistem_pelaporan_jalanan_rusak
+# Minpro1_Pemrograman Aplikasi Bergerak
+
+## Nama: Rini Wulandari
+
+## NIM: 2409116048
+
+## Kelas: Sistem Informasi B 2024
 
 A new Flutter project.
 
